@@ -3,10 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/epageler/categories/</loc>
-    <lastmod>2024-03-21T12:36:53-05:00</lastmod>
+    <lastmod>2024-03-21T16:44:04-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/epageler/posts/2024-03-21_github_pages/</loc>
+    <lastmod>2024-03-21T16:44:04-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/epageler/</loc>
-    <lastmod>2024-03-21T12:36:53-05:00</lastmod>
+    <lastmod>2024-03-21T16:44:04-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/epageler/tags/github-pages/</loc>
+    <lastmod>2024-03-21T16:44:04-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/epageler/tags/hugo/</loc>
+    <lastmod>2024-03-21T16:44:04-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/epageler/posts/</loc>
+    <lastmod>2024-03-21T16:44:04-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/epageler/tags/</loc>
+    <lastmod>2024-03-21T16:44:04-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/epageler/categories/web-development/</loc>
+    <lastmod>2024-03-21T16:44:04-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/epageler/tags/markdown/</loc>
     <lastmod>2024-03-21T12:36:53-05:00</lastmod>
@@ -14,19 +32,7 @@
     <loc>http://localhost:1313/epageler/posts/2024-03-21_markdown/</loc>
     <lastmod>2024-03-21T12:36:53-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/epageler/posts/</loc>
-    <lastmod>2024-03-21T12:36:53-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/epageler/tags/</loc>
-    <lastmod>2024-03-21T12:36:53-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/epageler/categories/web-development/</loc>
-    <lastmod>2024-03-21T12:36:53-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/epageler/posts/2024-03-20_customize_papermod/</loc>
-    <lastmod>2024-03-20T11:17:41-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/epageler/tags/hugo/</loc>
     <lastmod>2024-03-20T11:17:41-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/epageler/tags/papermod/</loc>

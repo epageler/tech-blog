@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Mar 2024 12:36:53 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 16:44:04 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/epageler/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploying a Hugo Site to GitHub Pages</title>
+      <link>http://localhost:1313/epageler/posts/2024-03-21_github_pages/</link>
+      <pubDate>Thu, 21 Mar 2024 16:44:04 -0500</pubDate>
+      <guid>http://localhost:1313/epageler/posts/2024-03-21_github_pages/</guid>
+      <description>Deploying a Hugo Site to GitHub Pages Instructions Detailed instructions from Hugo website Host on GitHub Pages
+Additional step Be sure to add a file entitled .gitmodules to the root of the hugo directory, with content similar to below:
+[submodule &amp;quot;themes/PaperMod&amp;quot;]path = themes/PaperModurl = https://github.com/adityatelange/hugo-PaperMod.gitEdit the content appropriately to reference the name of the theme &amp;amp; the the github url for the link to the code of the theme.</description>
+    </item>
     <item>
       <title>Markdown</title>
       <link>http://localhost:1313/epageler/posts/2024-03-21_markdown/</link>
