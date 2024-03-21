@@ -8,12 +8,10 @@ tags: ["Hugo", "github Pages"]
 showtoc: false
 tocopen: false
 ---
-# Deploying a Hugo Site to GitHub Pages
-
 ## Instructions
 Detailed instructions from Hugo website [Host on GitHub Pages](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
 
-## Additional step
+## Additional Step (Required)
 Be sure to add a file entitled .gitmodules to the root of the hugo directory, with content similar to below:
 
     [submodule "themes/PaperMod"]
