@@ -14,9 +14,10 @@ Detailed instructions from Hugo website [Host on GitHub Pages](https://gohugo.io
 ## Additional Step (Required)
 Be sure to add a file entitled .gitmodules to the root of the hugo directory, with content similar to below:
 
-    [submodule "themes/PaperMod"]
-        path = themes/PaperMod
-        url = https://github.com/adityatelange/hugo-PaperMod.git
+```
+[submodule "themes/PaperMod"]
+    path = themes/PaperMod
+    url = https://github.com/adityatelange/hugo-PaperMod.git
+```
 
 Edit the content appropriately to reference the name of the theme & the the github url for the link to the code of the theme.
-
