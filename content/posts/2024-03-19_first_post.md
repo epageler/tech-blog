@@ -6,10 +6,10 @@ categories: ["Web Development"]
 tags: ["Hugo", "Markdown","Papermod"]
 showtoc: true
 ---
-# Learning Hugo!
+### Learning Hugo!
 Success!!
 
-## Basis of This Website
+### Basis of This Website
 This site is based on the Hugo PaperMod theme.
 
 The PaperMod theme includes many attributes that I appreciate:
