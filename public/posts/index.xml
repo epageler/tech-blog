@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Mar 2024 16:44:04 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 12:28:24 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/epageler/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>yfinance</title>
+      <link>http://localhost:1313/epageler/posts/2024-05-11_00/</link>
+      <pubDate>Sat, 11 May 2024 12:28:24 -0500</pubDate>
+      <guid>http://localhost:1313/epageler/posts/2024-05-11_00/</guid>
+      <description>yfinance Python Library to retrieve investment data from the yfinance website
+Python Code to Download Daily Adjusted Closing Prices fo for Multiple Tickers import yfiance as yf import pandas as pd tickers= [&amp;#34;AGG&amp;#34;, &amp;#34;TIP&amp;#34;, &amp;#34;MUB&amp;#34;, &amp;#34;PFF&amp;#34;, &amp;#34;IVV&amp;#34;, &amp;#34;IWN&amp;#34;, &amp;#34;EFA&amp;#34;, &amp;#34;EEM&amp;#34;, &amp;#34;IYR&amp;#34;] startDate=&amp;#34;2022-12-31&amp;#34; endDate=&amp;#34;2023-12-31&amp;#34; df = yf.download(tickers, start=startDate, end=endDate, interval=&amp;#34;1d&amp;#34;) adj_close_df=df[&amp;#34;Adj Close&amp;#34;] Unfortunately, the Tickers are placed into the df alphabetically, rather than in the order in the list. So, to correct, the following codde needfs to be used.</description>
+    </item>
     <item>
       <title>Deploying a Hugo Site to GitHub Pages</title>
       <link>http://localhost:1313/epageler/posts/2024-03-21_00/</link>

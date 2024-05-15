@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Mar 2024 16:44:04 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 12:28:24 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/epageler/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investing</title>
+      <link>http://localhost:1313/epageler/categories/investing/</link>
+      <pubDate>Sat, 11 May 2024 12:28:24 -0500</pubDate>
+      <guid>http://localhost:1313/epageler/categories/investing/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Web Development</title>
       <link>http://localhost:1313/epageler/categories/web-development/</link>
