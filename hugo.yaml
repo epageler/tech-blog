@@ -1,6 +1,6 @@
 baseURL: "https://github.com/epageler/"
 title: Evan's Tech Blog
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
