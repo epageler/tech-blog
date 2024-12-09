@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 May 2024 12:28:24 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 10:36:58 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/epageler/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/epageler/tags/hugo/</link>
+      <pubDate>Mon, 09 Dec 2024 10:36:58 -0600</pubDate>
+      <guid>http://localhost:1313/epageler/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Papermod</title>
+      <link>http://localhost:1313/epageler/tags/papermod/</link>
+      <pubDate>Mon, 09 Dec 2024 10:36:58 -0600</pubDate>
+      <guid>http://localhost:1313/epageler/tags/papermod/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Python</title>
       <link>http://localhost:1313/epageler/tags/python/</link>
@@ -35,24 +49,10 @@
       <description></description>
     </item>
     <item>
-      <title>Hugo</title>
-      <link>http://localhost:1313/epageler/tags/hugo/</link>
-      <pubDate>Thu, 21 Mar 2024 16:44:04 -0500</pubDate>
-      <guid>http://localhost:1313/epageler/tags/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Markdown</title>
       <link>http://localhost:1313/epageler/tags/markdown/</link>
       <pubDate>Thu, 21 Mar 2024 12:36:53 -0500</pubDate>
       <guid>http://localhost:1313/epageler/tags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Papermod</title>
-      <link>http://localhost:1313/epageler/tags/papermod/</link>
-      <pubDate>Wed, 20 Mar 2024 11:17:41 -0500</pubDate>
-      <guid>http://localhost:1313/epageler/tags/papermod/</guid>
       <description></description>
     </item>
   </channel>
