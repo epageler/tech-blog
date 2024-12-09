@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Dec 2024 10:36:58 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 12:13:58 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/epageler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create Python Python Project with Poetry</title>
+      <link>http://localhost:1313/epageler/posts/2024-12-09_01/</link>
+      <pubDate>Mon, 09 Dec 2024 12:13:58 -0600</pubDate>
+      <guid>http://localhost:1313/epageler/posts/2024-12-09_01/</guid>
+      <description> Steps:
+Create the project folder Open project folder with vscode Assure that the vscode workspace is the project folder Use the vscode command pallette to create a virtual environment in the project folder At the vscode terminal, enter: poetry init Use poetry add to add libraries to the virtual environment. For example, to add pandas: poetry add pandas Display libraries with: poetry show --tree Create main.py in the project folder Activate the virtual enviromnent with: poetry shell Exit the environment with: exit </description>
+    </item>
     <item>
       <title>Add Post to Hugo Blog</title>
       <link>http://localhost:1313/epageler/posts/2024-12-09_00/</link>
