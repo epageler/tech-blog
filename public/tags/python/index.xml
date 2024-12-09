@@ -22,7 +22,7 @@
 Create the project folder Open project folder with vscode Assure that the vscode workspace is the project folder Use the vscode command pallette to create a virtual environment in the project folder At the vscode terminal, enter: poetry init Use poetry add to add libraries to the virtual environment. For example, to add pandas: poetry add pandas Display libraries with: poetry show --tree Create main.py in the project folder Activate the virtual enviromnent with: poetry shell Exit the environment with: exit </description>
     </item>
     <item>
-      <title>yfinance (Post 2024-05-11_00</title>
+      <title>yfinance (Post 2024-05-11_00)</title>
       <link>http://localhost:1313/epageler/posts/2024-05-11_00/</link>
       <pubDate>Sat, 11 May 2024 12:28:24 -0500</pubDate>
       <guid>http://localhost:1313/epageler/posts/2024-05-11_00/</guid>
