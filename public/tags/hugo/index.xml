@@ -18,8 +18,8 @@
       <link>http://localhost:1313/epageler/posts/2024-12-09_00/</link>
       <pubDate>Mon, 09 Dec 2024 10:36:58 -0600</pubDate>
       <guid>http://localhost:1313/epageler/posts/2024-12-09_00/</guid>
-      <description>Add content to blog At command prompt, type: hugo new content content/posts/YYYY-MM-DD_nn.md Notes:
-YYYY-MM-DD is today&amp;rsquo;s date _nn is a number of the post for today Edit the Front Matter title: in quotes categories: list in brackets, categories in quotes seperated by commas tags: list in brackets, categories in quotes seperated by commas showtoc: true or false (To show/hide Table of Contents) tocopen: true or false (To keep open ToC by default on page load) Commit to github to Update Website </description>
+      <description>1. Add content to blog 2. At command prompt, type: hugo new content content/posts/YYYY-MM-DD_nn.md Notes:
+YYYY-MM-DD is today&amp;rsquo;s date _nn is a number of the post for today 3. Edit the Front Matter title: in quotes categories: list in brackets, categories in quotes seperated by commas tags: list in brackets, categories in quotes seperated by commas showtoc: true or false (To show/hide Table of Contents) tocopen: true or false (To keep open ToC by default on page load) 4.</description>
     </item>
     <item>
       <title>Deploying a Hugo Site to GitHub Pages</title>
