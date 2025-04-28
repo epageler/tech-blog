@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Venv on Evan&#39;s Tech Blog</title>
-    <link>http://localhost:1313/epageler/tags/venv/</link>
+    <link>http://localhost:55951/epageler/tags/venv/</link>
     <description>Recent content in Venv on Evan&#39;s Tech Blog</description>
     <image>
       <title>Evan&#39;s Tech Blog</title>
-      <url>http://localhost:1313/epageler/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/epageler/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:55951/epageler/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:55951/epageler/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 09 Dec 2024 12:13:58 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/epageler/tags/venv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55951/epageler/tags/venv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create Python Python Project with Poetry (Post 2024-12-09-01_01)</title>
-      <link>http://localhost:1313/epageler/posts/2024-12-09_01/</link>
+      <link>http://localhost:55951/epageler/posts/2024-12-09_01/</link>
       <pubDate>Mon, 09 Dec 2024 12:13:58 -0600</pubDate>
-      <guid>http://localhost:1313/epageler/posts/2024-12-09_01/</guid>
+      <guid>http://localhost:55951/epageler/posts/2024-12-09_01/</guid>
       <description> Steps:
 Create the project folder Open project folder with vscode Assure that the vscode workspace is the project folder Use the vscode command pallette to create a virtual environment in the project folder At the vscode terminal, enter: poetry init Use poetry add to add libraries to the virtual environment. For example, to add pandas: poetry add pandas Display libraries with: poetry show --tree Create main.py in the project folder Activate the virtual enviromnent with: poetry shell Exit the environment with: exit </description>
     </item>
