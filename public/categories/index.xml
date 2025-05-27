@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Evan&#39;s Tech Blog</title>
-    <link>http://localhost:55951/epageler/categories/</link>
+    <link>http://localhost:1313/epageler/categories/</link>
     <description>Recent content in Categories on Evan&#39;s Tech Blog</description>
     <image>
       <title>Evan&#39;s Tech Blog</title>
-      <url>http://localhost:55951/epageler/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:55951/epageler/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/epageler/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/epageler/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Apr 2025 12:44:47 -0500</lastBuildDate>
-    <atom:link href="http://localhost:55951/epageler/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>MS Word</title>
-      <link>http://localhost:55951/epageler/categories/ms-word/</link>
-      <pubDate>Mon, 28 Apr 2025 12:44:47 -0500</pubDate>
-      <guid>http://localhost:55951/epageler/categories/ms-word/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Tue, 27 May 2025 16:11:35 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/epageler/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python</title>
-      <link>http://localhost:55951/epageler/categories/python/</link>
-      <pubDate>Mon, 09 Dec 2024 12:13:58 -0600</pubDate>
-      <guid>http://localhost:55951/epageler/categories/python/</guid>
+      <link>http://localhost:1313/epageler/categories/python/</link>
+      <pubDate>Tue, 27 May 2025 16:11:35 -0500</pubDate>
+      <guid>http://localhost:1313/epageler/categories/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>http://localhost:55951/epageler/categories/web-development/</link>
-      <pubDate>Mon, 09 Dec 2024 10:36:58 -0600</pubDate>
-      <guid>http://localhost:55951/epageler/categories/web-development/</guid>
+      <link>http://localhost:1313/epageler/categories/web-development/</link>
+      <pubDate>Tue, 27 May 2025 16:11:35 -0500</pubDate>
+      <guid>http://localhost:1313/epageler/categories/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MS Word</title>
+      <link>http://localhost:1313/epageler/categories/ms-word/</link>
+      <pubDate>Mon, 28 Apr 2025 12:44:47 -0500</pubDate>
+      <guid>http://localhost:1313/epageler/categories/ms-word/</guid>
       <description></description>
     </item>
     <item>
       <title>Investing</title>
-      <link>http://localhost:55951/epageler/categories/investing/</link>
+      <link>http://localhost:1313/epageler/categories/investing/</link>
       <pubDate>Sat, 11 May 2024 12:28:24 -0500</pubDate>
-      <guid>http://localhost:55951/epageler/categories/investing/</guid>
+      <guid>http://localhost:1313/epageler/categories/investing/</guid>
       <description></description>
     </item>
   </channel>

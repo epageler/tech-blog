@@ -2,78 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Evan&#39;s Tech Blog</title>
-    <link>http://localhost:55951/epageler/tags/</link>
+    <link>http://localhost:1313/epageler/tags/</link>
     <description>Recent content in Tags on Evan&#39;s Tech Blog</description>
     <image>
       <title>Evan&#39;s Tech Blog</title>
-      <url>http://localhost:55951/epageler/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:55951/epageler/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/epageler/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/epageler/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Apr 2025 12:44:47 -0500</lastBuildDate>
-    <atom:link href="http://localhost:55951/epageler/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 May 2025 16:11:35 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/epageler/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sytles</title>
-      <link>http://localhost:55951/epageler/tags/sytles/</link>
+      <title>Shiny</title>
+      <link>http://localhost:1313/epageler/tags/shiny/</link>
+      <pubDate>Tue, 27 May 2025 16:11:35 -0500</pubDate>
+      <guid>http://localhost:1313/epageler/tags/shiny/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MS-Word Sytles</title>
+      <link>http://localhost:1313/epageler/tags/ms-word-sytles/</link>
       <pubDate>Mon, 28 Apr 2025 12:44:47 -0500</pubDate>
-      <guid>http://localhost:55951/epageler/tags/sytles/</guid>
+      <guid>http://localhost:1313/epageler/tags/ms-word-sytles/</guid>
       <description></description>
     </item>
     <item>
       <title>Poetry</title>
-      <link>http://localhost:55951/epageler/tags/poetry/</link>
+      <link>http://localhost:1313/epageler/tags/poetry/</link>
       <pubDate>Mon, 09 Dec 2024 12:13:58 -0600</pubDate>
-      <guid>http://localhost:55951/epageler/tags/poetry/</guid>
+      <guid>http://localhost:1313/epageler/tags/poetry/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:55951/epageler/tags/python/</link>
+      <link>http://localhost:1313/epageler/tags/python/</link>
       <pubDate>Mon, 09 Dec 2024 12:13:58 -0600</pubDate>
-      <guid>http://localhost:55951/epageler/tags/python/</guid>
+      <guid>http://localhost:1313/epageler/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Venv</title>
-      <link>http://localhost:55951/epageler/tags/venv/</link>
+      <link>http://localhost:1313/epageler/tags/venv/</link>
       <pubDate>Mon, 09 Dec 2024 12:13:58 -0600</pubDate>
-      <guid>http://localhost:55951/epageler/tags/venv/</guid>
+      <guid>http://localhost:1313/epageler/tags/venv/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:55951/epageler/tags/hugo/</link>
+      <link>http://localhost:1313/epageler/tags/hugo/</link>
       <pubDate>Mon, 09 Dec 2024 10:36:58 -0600</pubDate>
-      <guid>http://localhost:55951/epageler/tags/hugo/</guid>
+      <guid>http://localhost:1313/epageler/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Papermod</title>
-      <link>http://localhost:55951/epageler/tags/papermod/</link>
+      <link>http://localhost:1313/epageler/tags/papermod/</link>
       <pubDate>Mon, 09 Dec 2024 10:36:58 -0600</pubDate>
-      <guid>http://localhost:55951/epageler/tags/papermod/</guid>
+      <guid>http://localhost:1313/epageler/tags/papermod/</guid>
       <description></description>
     </item>
     <item>
       <title>Yfinance</title>
-      <link>http://localhost:55951/epageler/tags/yfinance/</link>
+      <link>http://localhost:1313/epageler/tags/yfinance/</link>
       <pubDate>Sat, 11 May 2024 12:28:24 -0500</pubDate>
-      <guid>http://localhost:55951/epageler/tags/yfinance/</guid>
+      <guid>http://localhost:1313/epageler/tags/yfinance/</guid>
       <description></description>
     </item>
     <item>
       <title>Github Pages</title>
-      <link>http://localhost:55951/epageler/tags/github-pages/</link>
+      <link>http://localhost:1313/epageler/tags/github-pages/</link>
       <pubDate>Thu, 21 Mar 2024 16:44:04 -0500</pubDate>
-      <guid>http://localhost:55951/epageler/tags/github-pages/</guid>
+      <guid>http://localhost:1313/epageler/tags/github-pages/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:55951/epageler/tags/markdown/</link>
+      <link>http://localhost:1313/epageler/tags/markdown/</link>
       <pubDate>Thu, 21 Mar 2024 12:36:53 -0500</pubDate>
-      <guid>http://localhost:55951/epageler/tags/markdown/</guid>
+      <guid>http://localhost:1313/epageler/tags/markdown/</guid>
       <description></description>
     </item>
   </channel>
