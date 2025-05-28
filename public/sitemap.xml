@@ -3,27 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/epageler/categories/</loc>
-    <lastmod>2025-05-27T16:11:35-05:00</lastmod>
+    <lastmod>2025-05-28T14:19:02-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/epageler/</loc>
-    <lastmod>2025-05-27T16:11:35-05:00</lastmod>
+    <lastmod>2025-05-28T14:19:02-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/epageler/posts/</loc>
-    <lastmod>2025-05-27T16:11:35-05:00</lastmod>
+    <lastmod>2025-05-28T14:19:02-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/epageler/categories/python/</loc>
-    <lastmod>2025-05-27T16:11:35-05:00</lastmod>
+    <lastmod>2025-05-28T14:19:02-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/epageler/tags/shiny/</loc>
-    <lastmod>2025-05-27T16:11:35-05:00</lastmod>
+    <lastmod>2025-05-28T14:19:02-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/epageler/posts/2025-05-27_00/</loc>
-    <lastmod>2025-05-27T16:11:35-05:00</lastmod>
+    <loc>http://localhost:1313/epageler/posts/2025-05-28_00/</loc>
+    <lastmod>2025-05-28T14:19:02-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/epageler/tags/</loc>
-    <lastmod>2025-05-27T16:11:35-05:00</lastmod>
+    <lastmod>2025-05-28T14:19:02-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/epageler/categories/web-development/</loc>
+    <lastmod>2025-05-28T14:19:02-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/epageler/posts/2025-05-27_00/</loc>
     <lastmod>2025-05-27T16:11:35-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/epageler/categories/ms-word/</loc>
